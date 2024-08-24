@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Common/Start.unity
+    guid: 472480670209fe844be9a236bebb68b7
+  - enabled: 1
+    path: Assets/01_AnimatorSimple/AnimatorSimple.unity
+    guid: 7f664e1ebc06e304891de2c79c5f9708
+  - enabled: 1
+    path: Assets/02_AnimatorInterpolated/AnimatorInterpolated.unity
+    guid: 9aefbc8aaef39814692b40fc7d184238
+  - enabled: 1
+    path: Assets/03_AnimatorStateSync/AnimatorStateSync.unity
+    guid: a6b4c9a559512014f91bd2470dbb1601
+  - enabled: 1
+    path: Assets/04_NetworkMecanimAnimator/AnimatorNetworkMecanimAnimator.unity
+    guid: 0dbbcf2296f4f0141a66c03a57f78f4c
+  - enabled: 1
+    path: Assets/05_AnimancerFSM/AnimancerFSM.unity
+    guid: 856425b36eb884a42a28628853475105
+  - enabled: 1
+    path: Assets/06_FusionAnimationController/FusionAnimationController.unity
+    guid: e3c61fb0ec59aa7419e61e117da6871a
+  - enabled: 1
+    path: Assets/02_AnimatorInterpolated/AnimatorInterpolated.unity
+    guid: 9aefbc8aaef39814692b40fc7d184238
+  - enabled: 1
+    path: Assets/03_AnimatorStateSync/AnimatorStateSync.unity
+    guid: a6b4c9a559512014f91bd2470dbb1601
+  - enabled: 1
+    path: Assets/04_NetworkMecanimAnimator/AnimatorNetworkMecanimAnimator.unity
+    guid: 0dbbcf2296f4f0141a66c03a57f78f4c
+  - enabled: 1
+    path: Assets/05_AnimancerFSM/AnimancerFSM.unity
+    guid: 856425b36eb884a42a28628853475105
+  - enabled: 1
+    path: Assets/06_FusionAnimationController/FusionAnimationController.unity
+    guid: e3c61fb0ec59aa7419e61e117da6871a
+  m_configObjects: {}
